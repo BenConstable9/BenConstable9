@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm a MSci Computer Science Student working on a few Website Development projects in my spare time. I'm currently working on a Integrated Management System to provide all the functionality for watersports centres.
+I'm a Azure Data & AI Consultant. I'll be documenting my work here occasionally as I contribute to open source projects.
